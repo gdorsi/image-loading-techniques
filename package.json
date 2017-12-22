@@ -1,0 +1,14 @@
+{
+  "name": "lazy-load",
+  "private": true,
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "microbundle": "^0.2.4"
+  },
+  "dependencies": {
+    "nodemon": "^1.13.3"
+  }
+}

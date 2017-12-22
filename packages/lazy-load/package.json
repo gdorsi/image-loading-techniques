@@ -1,0 +1,7 @@
+{
+  "name": "@sockhatso/lazy-load",
+  "version": "1.0.0",
+  "module": "index.js",
+  "main": "dist/common.js",
+  "license": "MIT"
+}

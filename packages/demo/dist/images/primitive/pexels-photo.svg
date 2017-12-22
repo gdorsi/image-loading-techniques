@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="680">
+<rect x="0" y="0" width="1024" height="680" fill="#908a7f" />
+<g transform="scale(4.000000) translate(0.5 0.5)">
+<polygon fill="#000000" fill-opacity="0.501961" points="160,36 271,57 250,-16" />
+<polygon fill="#fde8e1" fill-opacity="0.501961" points="238,49 143,47 266,185" />
+<polygon fill="#481a05" fill-opacity="0.501961" points="123,158 167,54 174,105" />
+<polygon fill="#23150b" fill-opacity="0.501961" points="210,-16 271,17 192,61" />
+<polygon fill="#2f0000" fill-opacity="0.501961" points="219,112 270,62 271,91" />
+<polygon fill="#d8c8c1" fill-opacity="0.501961" points="93,179 167,124 265,135" />
+<polygon fill="#5f7046" fill-opacity="0.501961" points="150,54 67,-12 199,18" />
+<polygon fill="#a0a7a6" fill-opacity="0.501961" points="185,31 114,139 15,47" />
+<polygon fill="#555f5e" fill-opacity="0.501961" points="-9,185 118,173 22,110" />
+<polygon fill="#e3e9ee" fill-opacity="0.501961" points="271,87 237,185 218,129" />
+</g>
+</svg>

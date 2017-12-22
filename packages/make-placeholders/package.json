@@ -1,0 +1,16 @@
+{
+  "name": "@sockhatso/make-placeholders",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "make-placeholders": "./index.js"
+  },
+  "dependencies": {
+    "@sockhatso/primitive": "1.0.0",
+    "imagemin": "^5.3.1",
+    "imagemin-jpegtran": "^5.0.2",
+    "sharp": "^0.18.4",
+    "sqip": "^0.2.2"
+  }
+}
